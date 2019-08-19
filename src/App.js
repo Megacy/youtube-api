@@ -13,7 +13,7 @@ class App extends React.Component {
     }
 
     componentDidMount(){
-        this.handleSubmit('pdf generation')
+        this.handleSubmit('React hooks')
     }
 
     onVideoSelect = (video) => {
